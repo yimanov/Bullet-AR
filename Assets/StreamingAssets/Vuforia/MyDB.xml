@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="art" size="1.000000 1.264994" />
+    <ImageTarget name="artsmall" size="1.000000 1.067340" />
+    <ImageTarget name="7a06be84-1ccc-4075-bb0d-cbd4fc9f6487_d" size="5.000000 3.800000" />
+    <ImageTarget name="oldSacramentoStatue" size="5.000000 3.750000" />
+    <ImageTarget name="DVQ" size="0.500000 0.270658" />
+    <ImageTarget name="AR-160709768" size="0.500000 0.453543" />
+    <ImageTarget name="postcards_from_stockton_tipton" size="0.500000 0.312709" />
+    <ImageTarget name="MuralDONE" size="0.500000 0.404110" />
+    <ImageTarget name="stockton_downtown_mural_kia" size="0.500000 0.617216" />
+    <ImageTarget name="stockton_downtown_mural_seed" size="0.500000 0.358754" />
+    <ImageTarget name="IMG-0272" size="0.500000 0.494603" />
+    <ImageTarget name="unnamed" size="512.000000 682.666687" />
+  </Tracking>
+</QCARConfig>
